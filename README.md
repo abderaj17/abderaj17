@@ -1,8 +1,8 @@
 
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Adarsh Agrahari</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
-<img src="https://www.shutterstock.com/image-photo/man-programmer-coding-night-on-600nw-2463474777.jpg" widht="300px" alt="coding" />
+<img src="https://www.shutterstock.com/image-photo/man-programmer-coding-night-on-600nw-2463474777.jpg" widht="400px" alt="coding" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abderaj17" alt="abderaj17" /></a> </p>
 
