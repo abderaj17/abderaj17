@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India.</h3>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2l0aHVifGVufDB8fDB8fHww" alt="Adarsh Agrahari" width="200" height="180" style="border-radius: 50%;" />
+  <img src="rajPic.png" alt="Adarsh Agrahari" width="200" height="180" style="border-radius: 50%;" />
 </div>
 
 ---
