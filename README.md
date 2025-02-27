@@ -34,7 +34,7 @@
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="https://twitter.com/@ab_de_raj17" target="_blank">
+  <a href="https://twitter.com/@ab_de_raj17" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/adarsh-agrahari" target="_blank">
